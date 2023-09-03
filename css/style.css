@@ -414,9 +414,8 @@ body {
 }
 
 .about .about-content .text p:last-of-type {
-    font-weight: bold;
-    line-height: 2.5;
-    margin-top: 50px;
+    color: #777;
+    line-height: 2;
 }
 .about .about-content .image img {
     max-width: 100%;
